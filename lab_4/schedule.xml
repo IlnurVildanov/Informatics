@@ -1,0 +1,30 @@
+<schedule>
+    <lesson>
+        <time>10:00</time>
+        <subject>Языки программирования</subject>
+        <teacher>Кореньков Юрий Дмитриевич</teacher>
+    </lesson>
+    <lesson>
+        <time>11:40</time>
+        <subject>Языки программирования</subject>
+        <teacher>Кореньков Юрий Дмитриевич</teacher>
+    </lesson>
+    <lesson>
+        <time>15:20</time>
+        <subject>Английский язык A2</subject>
+        <teacher>Яковлева Ольга Александровна</teacher>
+        <location>
+            <audience>3229</audience>
+            <address>ул. Ломоносова, д.9</address>
+        </location>
+    </lesson>
+    <lesson>
+        <time>17:00</time>
+        <subject>Английский язык A2</subject>
+        <teacher>Яковлева Ольга Александровна</teacher>
+        <location>
+            <audience>3229</audience>
+            <address>ул. Ломоносова, д.9</address>
+        </location>
+    </lesson>
+</schedule>
